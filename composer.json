@@ -1,5 +1,5 @@
 {
-    "name": "thruway/ratchet-transport",
+    "name": "wencagh/ratchet-transport",
     "type": "library",
     "description": "Ratchet Transport for Thruway",
     "keywords": [
@@ -24,7 +24,7 @@
     ],
     "require": {
         "cboden/ratchet": "^0.4",
-        "guzzlehttp/psr7": "^1.4"
+        "guzzlehttp/psr7": "^1.4|^2.0"
     },
     "autoload": {
         "psr-4": {
